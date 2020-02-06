@@ -1,0 +1,104 @@
+.container-fluid{
+    width: 100%;
+max-width: 1440px;
+height:3913px;
+}
+.container{
+    height: 116px;
+}
+.section1{
+    width: 100%;
+    min-width: 1440px;
+    height: 700px;
+    /*background-color: darkkhaki;*/
+    justify-content: center;
+}
+.section1 h5{
+    font-size: 56px;
+    line-height: 69px;
+}
+.section1 p{
+    font-size: 20px;
+    line-height: 140.62%;}
+
+.section2{
+    width: 1440px;
+    height: 600px;
+   /* background-color: cornflowerblue;*/
+}
+.section3{
+    height: 820px;
+   /* background-color: burlywood;*/
+    text-align: center;
+}
+.ml-3{
+    width: 719px;
+    background-size: cover;
+}
+.media-body{
+    text-align: left;
+    margin-top:100px;
+    padding-left:100px;
+}
+.section3 h5{
+    font-size: 32px;
+    line-height: 38p;
+    padding-top: 48px;
+}
+.section3 p{
+    font-size: 18px;  
+    line-height: 79px;
+}
+.card-img-top {
+    width: 270px;
+    height: 270px;
+}
+.card-title h5{font-size: 20px;}
+.section4{
+    width: 1440px;
+    height: 240px;
+   background-color: #F7941E;}
+   .section4 h4{font-size: 32px;
+                font-style: bold;}
+.section5 .media{
+    width:1170px;
+    height: 370px;
+    background-color:#000;
+    color: #fff;;
+    justify-content: center;
+   margin: 0 auto;
+   padding-top:0;
+}
+.section5 .media a{color:#fff;}
+
+.section5{
+    width: 1440px;
+    height: 1026px;
+  /*background-color: darkseagreen;*/
+   padding-top: 40px; 
+    margin: 0 auto; 
+   
+}
+.section5 h5{padding-top: 40px;}
+.row{ padding-top: 80px;
+padding-left: 165px;}
+.row h4{
+    font-size: 24px;
+    line-height: 40px;}
+    .col a{color: #000;
+           line-height: 70px;
+           font-size: 14px;}
+.footer{width: 1440px;
+        height: 410px;}
+      /*  background-color: aquamarine;*/
+        nav a{color: #000;}
+.picture{display: flex;
+         justify-content: center;
+        padding-top: 90px;}
+        .picture img{padding: 25px;}
+        .data {text-align: center;
+        padding-top: 40px;}
+       .stroka{padding-top: 50px;}
+.center-block{
+    margin: 0 auto;
+}
